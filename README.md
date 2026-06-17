@@ -87,25 +87,13 @@ Gosto de transformar ideias em projetos reais: desde APIs REST completas e inter
 ## Estatísticas do GitHub
 
 <div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ngt18&show_icons=true&theme=dracula&hide_border=true&custom_title=GitHub%20Stats" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngt18&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas">
-
+  <img width="49%" src="./profile/stats.svg" alt="Estatísticas do GitHub">
+  <img width="49%" src="./profile/top-langs.svg" alt="Top 5 linguagens">
 </div>
 
 ---
-
 <details>
-  <summary><b>📚 O que estou estudando atualmente</b></summary>
 
-  - Arquitetura de aplicações fullstack com **NestJS**, **Prisma** e **PostgreSQL**
-  - Desenvolvimento mobile nativo com **Kotlin** e **Jetpack Compose**
-  - Testes automatizados, TDD e boas práticas de qualidade de código
-  - Automação de processos e integração com APIs externas
-
-</details>
-
-<details>
   <summary><b>🔧 Projetos por trás dos repositórios</b></summary>
 
   Além dos projetos públicos em destaque, venho trabalhando em iniciativas privadas que reforçam minha experiência prática:
@@ -117,9 +105,3 @@ Gosto de transformar ideias em projetos reais: desde APIs REST completas e inter
 </details>
 
 ---
-
-<div align="center">
-
-  <sub>Perfil mantido com foco em evidências reais dos repositórios públicos.</sub>
-
-</div>
