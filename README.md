@@ -87,8 +87,8 @@ Gosto de transformar ideias em projetos reais: desde APIs REST completas e inter
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" src="./profile/stats.svg" alt="Estatísticas do GitHub">
-  <img width="49%" src="./profile/top-langs.svg" alt="Top 5 linguagens">
+  <img width="49%" src="https://ngt18-profile-cards.vercel.app/stats.svg" alt="Estatísticas do GitHub">
+  <img width="49%" src="https://ngt18-profile-cards.vercel.app/top-langs.svg" alt="Top 5 linguagens">
 </div>
 
 ---
