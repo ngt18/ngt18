@@ -11,7 +11,7 @@
   <rect x="28" y="70" width="224" height="68" rx="12" fill="#303240" stroke="#44475a"/>
   <circle cx="48" cy="90" r="5" fill="#8be9fd"/>
   <text x="62" y="94" fill="#b9bbc7" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="600">Commits</text>
-  <text x="46" y="125" fill="#f8f8f2" font-size="25" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="700">490</text>
+  <text x="46" y="125" fill="#f8f8f2" font-size="25" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="700">48</text>
   <rect x="268" y="70" width="224" height="68" rx="12" fill="#303240" stroke="#44475a"/>
   <circle cx="288" cy="90" r="5" fill="#bd93f9"/>
   <text x="302" y="94" fill="#b9bbc7" font-size="13" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="600">Pull requests</text>
